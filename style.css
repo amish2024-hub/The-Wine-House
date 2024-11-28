@@ -138,7 +138,7 @@ section {
   position: absolute;
   left: 0;
   overflow: hidden;
-  transition: left 1.5s;
+  transition: left 0.7s;
 }
 
 .section-1 {
